@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[git tutorial](/test.html)
 
 You can use the [editor on GitHub](https://github.com/I-Sun/I-Sun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
