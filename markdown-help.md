@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Welcome to GitHub Pages
 [git tutorial](/test.html)
 
