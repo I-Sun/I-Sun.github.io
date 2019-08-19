@@ -3,6 +3,7 @@ layout: post
 author: InSun
 tags: PaperReading Classification
 ---
+
 Fixing the train-test resolution discrepancy  
 
 修正训练测试的精度差异[原文地址](https://arxiv.org/pdf/1906.06423v2.pdf).  
